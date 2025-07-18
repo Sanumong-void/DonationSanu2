@@ -1,0 +1,40 @@
+body {
+    background-color: #2c2c54;
+    color: #333;
+    padding-top: 50px;
+}
+
+.payment {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Member, sans-serif;
+    font-size: 36px;
+    letter-spacing: 1px;
+    color: #2c2c54;
+}
+
+.outer-div {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-back {
+    background-color: #ddd;
+    color: #000;
+    border: none;
+}
+
+.btn-back:hover {
+    background-color: #aaa;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #2c2c54;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #40407a;
+}
