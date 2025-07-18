@@ -18,9 +18,10 @@
     position: relative;
 }
 .image{
-    height: 95vh;
-    width: 99vw;
+    height: 90vh;
+    width: 100vw;
     opacity: .85;
+    
 }
 .donate{
     position: absolute;
